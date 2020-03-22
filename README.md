@@ -4,9 +4,7 @@ Making the model - Trust worthy
 
 ## Abstract
 
-Making system trustable and believable is one of the important goals of data science. Models are mostly black boxes, where we know little what is happening in the model. This plays a vital role in making people trust the model. In the places where data model decision is very important like medical field or self-driving car or other critical places, the confidence in the model plays the key role which depends on the understanding of the model being built and used.
+Making a machine trustworthy and reliable is one of the most important goals of data science today. Models are many times used as black boxes, wherein we give a particular input, know little of what happens inside the model, and get an output. But an important question that often gets overlooked is 'Why?' In some cases, one might not care why a decision was made, it is enough to know that the predictive performance on a test dataset was good. But in other cases, knowing the ‘Why’ can help learn more about the problem, the data and the reason why a model might fail. In cases such as cancer detection, self-driving cars or other critical places that can involve life and death, this becomes extremely crucial. 
 
-Focus is to build a system that can be used to transform the unassured model into assured and dependable one. This can be done by different methods in this project we will make use of the model interpretability, causal inference and debiasing to make the model trustworthy.
-
-First, the Model interpretability will be helping to understand black-box layers of the model and to make better intuition of the model. Second, causal inference will be defining the underlying reason for correlation and causation and possible wrong interpretation. At last, learning about bias in the model and applying the debiasing method and make sure the model output is debiased.
+In this project, Abhishek Gargha-Maheshwarappaand Kartik Kumar aim to build a system that can be used to transform an unassured model into an assured and dependable one. This will be done using established methods and basic concepts of machine learning interpretability.
 

@@ -14,5 +14,7 @@ Making a machine trustworthy and reliable is one of the most important goals of 
 In this project weaimtobuildasystemthatcanbeusedtotransformanunassuredmodelintoan                    assured and dependable one. We will uncover interpretability of a simple model and a complex               model (deep learning). For both the cases, the model interpretability will be explained on the               basis of Expressive Power, Translucency, Portability and Algorithmic complexity. Supporting          code will also be provided to help showcase the theory in real-world applications. Establishing              local interpretability for single predictions and group predictions using model-agnostic methods           is the ultimate goal of this project. 
  
 ## Project Members: 
-Abhishek Gargha Maheshwarappa 
+
+Abhishek Gargha Maheshwarappa
+
 Kartik Kumar 

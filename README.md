@@ -1,7 +1,3 @@
----
-description: asqswdfeghj
----
-
 # Computational-Skepticism
 
 Making a model “​TrustWorthy​”

@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Computational-Skepticism](README.md)
+* [Initial page](README.md)
 
